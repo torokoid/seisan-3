@@ -65,8 +65,12 @@ var wari = [];
       }
  
 var kasann = kasann[selectss-1]
+
+document.write("<br>参加人数：" + selects + "人<br>")
+      
+document.write("支払った人の人数：" + selectss + "人<br>")
  
-document.write("<br>経費の総額：" + kasann + "円<br>")
+document.write("経費の総額：" + kasann + "円<br>")
  
 document.write("公金補助額：" + koukin + "円<br>")
  
